@@ -13,7 +13,7 @@ selenium basic programs
   - [Fluent wait]
  
   **1.2 Screenshots**
-    
+  **1.3 Asserts**
 
 **2.Handle WebElements**
 - [Text Box]
