@@ -14,7 +14,9 @@ public class Enter_input_inSearch_Field {
 		Thread.sleep(3000);      //To avoid NoSuchElementException:
 		WebElement EntTxt=driver.findElement(By.xpath("//input[@id='twotabsearchtextbox']"));
 		EntTxt.sendKeys("mobile");
-		
+
+		//OR 
+		//driver.findElement(By.xpath("//input[@id='twotabsearchtextbox']")).sendKeys("mobile");
 	}
 
 }
