@@ -4,6 +4,7 @@ selenium basic programs
 **1.Lanunch Browser**
 - [Launch Browser](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Launch%20Browser)
 - [Navigate Browser](https://github.com/ErAnirudha/Selenium-Programs/blob/main/NavigateBrowser.java)
+- [Enter Input in search Field]
 
 **2.Handle WebElements**
 - [Text Box]
