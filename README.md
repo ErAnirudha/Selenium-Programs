@@ -6,5 +6,13 @@ selenium basic programs
 - [Navigate Browser]
 
 **2.Handle WebElements**
--Text Box
--
+- [Text Box]
+- [Check Box]
+- [Radio Button]
+- [Web Tables]
+- [Buttons]
+- [Links]
+- [Broken Links - Images]
+- [Upload and Download]
+- [Dynamic Properties]
+- 
