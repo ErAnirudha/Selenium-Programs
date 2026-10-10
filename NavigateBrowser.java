@@ -20,6 +20,8 @@ public class NavigateBrowser {
 		Thread.sleep(3000);  
 		driver.navigate().refresh();
 		
+		driver.navigate().to("http://www.google.com");  //its Alternative way to driver.get
+		
 		driver.quit();    // To End All open window sessions
 
 	}
