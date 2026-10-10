@@ -15,4 +15,38 @@ selenium basic programs
 - [Broken Links - Images]
 - [Upload and Download]
 - [Dynamic Properties]
-- 
+
+**2.Forms**
+  - [Practice form]
+  - [Login]
+  - [Register]
+
+**3.Alerts,Frames & Windows**
+  - [Browser Windows]
+  -  [Alerts]
+  -  [ Frames]
+  -  [ Nested Frames]
+  -  [ Modal Dialogs]
+ **4.Widgets**
+  -  [Accordion]
+  -   [ Auto Complete]
+  -   [ Date Picker]
+  -   [ Slider]
+  -   [ Progress Bar]
+  -   [ Tabs]
+  -   [ Tool Tips]
+  -   [ Menu]
+  -   [Select Menu]
+  -   [ Scoll Top]
+  -   [ Scoll Down]
+  -   [ Horizontal Scroll] 
+
+
+
+
+
+
+
+ 
+
+
