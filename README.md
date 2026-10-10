@@ -27,6 +27,7 @@ selenium basic programs
   -  [ Frames]
   -  [ Nested Frames]
   -  [ Modal Dialogs]
+    
  **4.Widgets**
   -  [Accordion]
   -   [ Auto Complete]
@@ -39,7 +40,14 @@ selenium basic programs
   -   [Select Menu]
   -   [ Scoll Top]
   -   [ Scoll Down]
-  -   [ Horizontal Scroll] 
+  -   [ Horizontal Scroll]
+
+**5.Interaction**
+-   [Sortable]
+-   [Selectable]
+-   [Resizable]
+-   [Droppable]
+-   [Dragabble]
 
 
 
