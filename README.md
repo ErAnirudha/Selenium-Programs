@@ -6,7 +6,7 @@ selenium basic programs
 - [Navigate Browser](https://github.com/ErAnirudha/Selenium-Programs/blob/main/NavigateBrowser.java)
 - [Enter Input in search Field](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Enter_input_inSearch_Field.java)
 
-  ** 1.1Auto-Waits**
+  **1.1 Auto-Waits**
   - [Thread.sleep]
   - [implicit wait]
   - [Explicit wait]
