@@ -60,6 +60,10 @@ selenium basic programs
 -   [Droppable]
 -   [Dragabble]
 
+**6.Database Connection & data fetch**
+- [JDBC]
+- 
+
 
 
 
