@@ -61,7 +61,8 @@ selenium basic programs
 -   [Dragabble]
 
 **6.Database Connection & data fetch**
-- [JDBC](https://github.com/ErAnirudha/Selenium-Programs/blob/main/databaseConnection.java)
+-[JDBC old way connection]
+- [JDBC latest](https://github.com/ErAnirudha/Selenium-Programs/blob/main/databaseConnection.java)
 - 
 
 
