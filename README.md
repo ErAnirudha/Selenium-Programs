@@ -63,6 +63,12 @@ selenium basic programs
 **6.Database Connection & data fetch**
 - [JDBC old way connection](https://github.com/ErAnirudha/Selenium-Programs/blob/main/dbconnection%20old%20way.java)
 - [JDBC latest way connection](https://github.com/ErAnirudha/Selenium-Programs/blob/main/databaseConnection.java)
+
+ **Excel File**
+- [ReadingDataFromExcel]
+- [WritingDataIntoExcel]
+- [WritingDynamicDataIntoExcel]
+- [WrittingDataRandomlyExcels]
 - 
 
 
