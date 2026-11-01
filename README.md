@@ -5,6 +5,7 @@ selenium basic programs
 - [Launch Browser](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Launch%20Browser.java)
 - [Navigate Browser](https://github.com/ErAnirudha/Selenium-Programs/blob/main/NavigateBrowser.java)
 - [Enter Input in search Field](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Enter_input_inSearch_Field.java)
+- [get commands]
 
   **1.1 Auto-Waits**
   - [Thread.sleep]
