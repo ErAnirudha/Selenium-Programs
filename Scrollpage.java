@@ -20,7 +20,10 @@ public class Scroll {
 		//For scroll purpose
 		JavascriptExecutor js=(JavascriptExecutor)driver;
 		js.executeScript("scrollBy(0, 4500)");
+		
+		Thread.sleep(2000);
 
+		driver.close();
 	}
 
 	
