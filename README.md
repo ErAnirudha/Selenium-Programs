@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Anirudha</h1>
+<h3 align="center">A passionate (QA) Tester from India</h3>
+
 # Selenium-Programs
 selenium basic programs
 
