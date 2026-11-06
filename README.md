@@ -9,7 +9,7 @@ selenium basic programs
 - [Navigate Browser](https://github.com/ErAnirudha/Selenium-Programs/blob/main/NavigateBrowser.java)
 - [Enter Input in search Field](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Enter_input_inSearch_Field.java)
 - [get commands methods](https://github.com/ErAnirudha/Selenium-Programs/blob/main/GetMethods.java)
-- [Locators]
+- [Locators](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Locators.java)
 - [Conditional command methods]
 
   **1.1 Auto-Waits**
