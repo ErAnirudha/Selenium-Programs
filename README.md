@@ -10,7 +10,7 @@ selenium basic programs
 - [Enter Input in search Field](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Enter_input_inSearch_Field.java)
 - [get commands methods](https://github.com/ErAnirudha/Selenium-Programs/blob/main/GetMethods.java)
 - [Locators](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Locators.java)
-- [css selectors]
+- [css selectors](https://github.com/ErAnirudha/Selenium-Programs/blob/main/CssLocators.java)
 - [Conditional command methods]
 
   **1.1 Auto-Waits**
