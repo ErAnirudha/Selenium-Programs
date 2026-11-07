@@ -11,6 +11,7 @@ selenium basic programs
 - [get commands methods](https://github.com/ErAnirudha/Selenium-Programs/blob/main/GetMethods.java)
 - [Locators](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Locators.java)
 - [css selectors](https://github.com/ErAnirudha/Selenium-Programs/blob/main/CssLocators.java)
+- [XpathLocator]
 - [Conditional command methods]
 
   **1.1 Auto-Waits**
