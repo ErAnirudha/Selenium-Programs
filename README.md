@@ -10,7 +10,7 @@ selenium basic programs
 - [Enter Input in search Field](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Enter_input_inSearch_Field.java)
 - [get commands methods](https://github.com/ErAnirudha/Selenium-Programs/blob/main/GetMethods.java)
 
-- **1.2 Locators**
+  **1.2 Locators**
 - [Locators](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Locators.java)
 - [css selectors](https://github.com/ErAnirudha/Selenium-Programs/blob/main/CssLocators.java)
 - [XpathLocator](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Xpathlocator.java)
