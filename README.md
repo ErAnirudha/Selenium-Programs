@@ -9,20 +9,22 @@ selenium basic programs
 - [Navigate Browser](https://github.com/ErAnirudha/Selenium-Programs/blob/main/NavigateBrowser.java)
 - [Enter Input in search Field](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Enter_input_inSearch_Field.java)
 - [get commands methods](https://github.com/ErAnirudha/Selenium-Programs/blob/main/GetMethods.java)
+
+- **1.2 Locators**
 - [Locators](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Locators.java)
 - [css selectors](https://github.com/ErAnirudha/Selenium-Programs/blob/main/CssLocators.java)
 - [XpathLocator](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Xpathlocator.java)
 - [Conditional command methods]
 
-  **1.1 Auto-Waits**
+  **1.2 Auto-Waits**
   - [Thread.sleep](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Thread_sleep.java)
   - [implicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ImplicitWait.java)
   - [Explicit wait]
   - [Fluent wait]
  
-  **1.2 Screenshots**
+  **1.3 Screenshots**
   
-  **1.3 Asserts**
+  **1.4 Asserts**
 
 **2.Handle WebElements**
 - [Text Box]
