@@ -15,7 +15,7 @@ selenium basic programs
   - [css selectors](https://github.com/ErAnirudha/Selenium-Programs/blob/main/CssLocators.java)
   - [XpathLocator](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Xpathlocator.java)
     
-  **1.3 conditional Commands**
+  **1.3 conditional Commands (Applied ON WebElements)**
   - [IsSelected]
   - [ISVisible]
   - [IsEnabled]
