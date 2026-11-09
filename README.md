@@ -15,7 +15,7 @@ selenium basic programs
 - [Conditional command methods]
 
   **1.1 Auto-Waits**
-  - [Thread.sleep]
+  - [Thread.sleep](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Thread_sleep.java)
   - [implicit wait]
   - [Explicit wait]
   - [Fluent wait]
