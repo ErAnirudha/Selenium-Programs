@@ -14,17 +14,18 @@ selenium basic programs
   - [Locators ID,NAME,ClassName,TagName,LinkText,PartialLinkText](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Locators.java)
   - [css selectors](https://github.com/ErAnirudha/Selenium-Programs/blob/main/CssLocators.java)
   - [XpathLocator](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Xpathlocator.java)
+  **1.3 conditional Commands**
   - [Conditional command methods]
 
-  **1.2 Auto-Waits**
+  **1.4 Auto-Waits**
   - [Thread.sleep](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Thread_sleep.java)
   - [implicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ImplicitWait.java)
   - [Explicit wait]
   - [Fluent wait]
  
-  **1.3 Screenshots**
+  **1.5 Screenshots**
   
-  **1.4 Asserts**
+  **1.6 Asserts**
 
 **2.Handle WebElements**
 - [Text Box]
