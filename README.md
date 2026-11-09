@@ -24,7 +24,7 @@ selenium basic programs
   - [Thread.sleep](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Thread_sleep.java)
   - [implicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ImplicitWait.java)
   - [Explicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ExplicitWait.java)
-  - [Fluent wait]
+  - [Fluent wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/FluentWaitDemo.java)
  
   **1.5 Screenshots**
   
