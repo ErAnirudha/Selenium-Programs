@@ -16,7 +16,7 @@ selenium basic programs
 
   **1.1 Auto-Waits**
   - [Thread.sleep](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Thread_sleep.java)
-  - [implicit wait]
+  - [implicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ImplicitWait.java)
   - [Explicit wait]
   - [Fluent wait]
  
