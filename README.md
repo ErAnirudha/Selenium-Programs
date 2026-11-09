@@ -16,9 +16,7 @@ selenium basic programs
   - [XpathLocator](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Xpathlocator.java)
     
   **1.3 conditional Commands (Applied ON WebElements)**
-  - [IsSelected]
-  - [ISVisible]
-  - [IsEnabled]
+  - [IsSelected ,ISVisible, IsEnabled]()
 
   **1.4 Auto-Waits**
   - [Thread.sleep](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Thread_sleep.java)
