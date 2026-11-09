@@ -11,7 +11,7 @@ selenium basic programs
 - [get commands methods](https://github.com/ErAnirudha/Selenium-Programs/blob/main/GetMethods.java)
 
   **1.2 Locators**
-  - [Locators](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Locators.java)
+  - [Locators ID,NAME,CLASS,LinkText,PartialLinkText](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Locators.java)
   - [css selectors](https://github.com/ErAnirudha/Selenium-Programs/blob/main/CssLocators.java)
   - [XpathLocator](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Xpathlocator.java)
   - [Conditional command methods]
