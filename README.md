@@ -46,7 +46,7 @@ selenium basic programs
 
 **3.Alerts,Frames & Windows**
   - [Browser Windows]
-  -  [Alerts](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Alerts.java)
+  -  [Alert pop up ](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Alerts.java)
   -  [ Frames]
   -  [ Nested Frames]
   -  [ Modal Dialogs]
