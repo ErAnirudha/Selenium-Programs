@@ -48,12 +48,15 @@ selenium basic programs
   - [Handle Alert](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleAlerts.java)
   - [Alert pop up ](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Alerts.java)
   - [Handle Alert Using Explicit Wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleAlertUsingExplicitWait.java)
-  - [Authenticated popup / Alert]
+  - [Authenticated popup / Alert](https://github.com/ErAnirudha/Selenium-Programs/blob/main/AuthenticatedPopup.java)
     
-**Frames & Windows**
+**Frames**
+  - [Handling Frames]
+  - [Iframes]
+  - [Nested Frames]
+ **Windows**
   - [Browser Windows]
-  -  [ Frames]
-  -  [ Nested Frames]
+ 
   -  [ Modal Dialogs]
     
  **4.Widgets**
