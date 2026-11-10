@@ -44,9 +44,11 @@ selenium basic programs
   - [Login]
   - [Register]
 
-**3.Alerts,Frames & Windows**
+**3.Alerts**
+  -[Handle Alert](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleAlerts.java)
+  -[Alert pop up ](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Alerts.java)
+** Frames & Windows**
   - [Browser Windows]
-  -  [Alert pop up ](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Alerts.java)
   -  [ Frames]
   -  [ Nested Frames]
   -  [ Modal Dialogs]
