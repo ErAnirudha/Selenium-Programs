@@ -10,19 +10,19 @@ selenium basic programs
 - [Enter Input in search Field](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Enter_input_inSearch_Field.java)
 - [get commands methods](https://github.com/ErAnirudha/Selenium-Programs/blob/main/GetMethods.java)
 
-  **1.2 Locators**
-  - [Locators (ID,NAME,ClassName,TagName,LinkText,PartialLinkText)](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Locators.java)
-  - [css selectors](https://github.com/ErAnirudha/Selenium-Programs/blob/main/CssLocators.java)
-  - [XpathLocator](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Xpathlocator.java)
+  **2.Locators**
+- [Locators (ID,NAME,ClassName,TagName,LinkText,PartialLinkText)](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Locators.java)
+- [css selectors](https://github.com/ErAnirudha/Selenium-Programs/blob/main/CssLocators.java)
+- [XpathLocator](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Xpathlocator.java)
     
-  **1.3 conditional Commands (Applied ON WebElements)**
-  - [IsSelected ,ISVisible, IsEnabled](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ConditionalMethods.java)
+  **3 conditional Commands (Applied ON WebElements)**
+- [IsSelected ,ISVisible, IsEnabled](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ConditionalMethods.java)
 
-  **1.4 Auto-Waits**
-  - [Thread.sleep](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Thread_sleep.java)
-  - [implicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ImplicitWait.java)
-  - [Explicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ExplicitWait.java)
-  - [Fluent wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/FluentWaitDemo.java)
+  **4 Auto-Waits**
+- [Thread.sleep](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Thread_sleep.java)
+- [implicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ImplicitWait.java)
+- [Explicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ExplicitWait.java)
+- [Fluent wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/FluentWaitDemo.java)
  
   **1.5 Screenshots**
   
