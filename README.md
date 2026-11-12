@@ -45,6 +45,7 @@ selenium basic programs
   - [Register]
 
 **3.Alerts**
+- [Theory-for 3 Types of Switching Commands]
   - [Handle Alert](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleAlerts.java)
   - [Alert pop up ](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Alerts.java)
   - [Handle Alert Using Explicit Wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleAlertUsingExplicitWait.java)
@@ -54,7 +55,7 @@ selenium basic programs
   - [Handling Frames /Iframes / Nested Frames](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleFrames.java)
     
  **Windows**
-  - [Browser Windows]
+  -  [Browser Windows]
   -  [ Modal Dialogs]
     
  **4.Widgets**
