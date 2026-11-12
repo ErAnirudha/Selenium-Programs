@@ -45,7 +45,7 @@ selenium basic programs
   - [Register]
 
 **3.Alerts**
-  - [Theory-for 3 Types of Switching Commands]
+  - [Theory-for 3 Types of Switching Commands](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Switching_Commands.txt)
   - [Handle Alert](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleAlerts.java)
   - [Alert pop up ](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Alerts.java)
   - [Handle Alert Using Explicit Wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleAlertUsingExplicitWait.java)
