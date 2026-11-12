@@ -51,9 +51,7 @@ selenium basic programs
   - [Authenticated popup / Alert](https://github.com/ErAnirudha/Selenium-Programs/blob/main/AuthenticatedPopup.java)
     
 **Frames**
-  - [Handling Frames](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleFrames.java)
-  - [Iframes]
-  - [Nested Frames]
+  - [Handling Frames /Iframes / Nested Frames](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleFrames.java)
     
  **Windows**
   - [Browser Windows]
