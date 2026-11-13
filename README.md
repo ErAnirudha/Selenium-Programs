@@ -25,6 +25,7 @@ selenium basic programs
 - [Fluent wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/FluentWaitDemo.java)
  
   **1.5 Screenshots**
+- [ScreenShot capture](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ScreenshotTake.java)
   
   **1.6 Asserts**
 
