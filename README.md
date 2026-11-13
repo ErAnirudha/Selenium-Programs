@@ -15,16 +15,16 @@ selenium basic programs
 - [css selectors](https://github.com/ErAnirudha/Selenium-Programs/blob/main/CssLocators.java)
 - [XpathLocator](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Xpathlocator.java)
     
-**3 conditional Commands (Applied ON WebElements)**
+**3.conditional Commands (Applied ON WebElements)**
 - [IsSelected ,ISVisible, IsEnabled](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ConditionalMethods.java)
 
-**4 Auto-Waits**
+**4.Auto-Waits**
 - [Thread.sleep](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Thread_sleep.java)
 - [implicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ImplicitWait.java)
 - [Explicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ExplicitWait.java)
 - [Fluent wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/FluentWaitDemo.java)
  
-**5 Screenshots**
+**5.Screenshots**
 - [ScreenShot capture](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ScreenshotTake.java)
   
   **1.6 Asserts**
