@@ -25,7 +25,7 @@ selenium basic programs
 - [Fluent wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/FluentWaitDemo.java)
  
 **5.Screenshots**
-- [ScreenShot capture- Output Type-FILE](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ScreenshotTake.java)
+  - - [ScreenShot capture- Output Type-FILE](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ScreenshotTake.java)
   - - [ScreenShot capture- Output Type-Base64]
   - - [ScreenShot capture- Output Type-Array]
   
