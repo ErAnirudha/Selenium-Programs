@@ -26,6 +26,8 @@ selenium basic programs
  
 **5.Screenshots**
 - [ScreenShot capture](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ScreenshotTake.java)
+  - - [ScreenShot capture]
+  - - [ScreenShot capture]
   
   **1.6 Asserts**
 
