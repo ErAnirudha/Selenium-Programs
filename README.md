@@ -19,17 +19,20 @@ selenium basic programs
 - [IsSelected ,ISVisible, IsEnabled](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ConditionalMethods.java)
 
 **4.Auto-Waits**
-- [Thread.sleep](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Thread_sleep.java)
-- [implicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ImplicitWait.java)
-- [Explicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ExplicitWait.java)
-- [Fluent wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/FluentWaitDemo.java)
+- [1.Thread.sleep](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Thread_sleep.java)
+- [2.implicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ImplicitWait.java)
+- [3.Explicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ExplicitWait.java)
+- [4.Fluent wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/FluentWaitDemo.java)
  
 **5.Screenshots**
   - - [ScreenShot capture- Output Type-FILE](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ScreenshotTake.java)
   - - [ScreenShot capture- Output Type-Base64]
   - - [ScreenShot capture- Output Type-Array]
 
- **6.Drop Down**([1.select Drop down , 2.BootStrap-Drop down , 3.Hidden drop down])
+ **6.Drop Down**
+ - [1.select Drop down]
+ - [2.BootStrap-Drop down]
+ - [3.Hidden drop down]
   
   **1.6 Asserts**
 
