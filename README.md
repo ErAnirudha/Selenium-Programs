@@ -28,6 +28,8 @@ selenium basic programs
   - - [ScreenShot capture- Output Type-FILE](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ScreenshotTake.java)
   - - [ScreenShot capture- Output Type-Base64]
   - - [ScreenShot capture- Output Type-Array]
+
+ **6.Drop Down**([1.select Drop down , 2.BootStrap-Drop down , 3.Hidden drop down])
   
   **1.6 Asserts**
 
