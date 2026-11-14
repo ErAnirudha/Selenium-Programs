@@ -16,7 +16,7 @@ selenium basic programs
 - [XpathLocator](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Xpathlocator.java)
     
 **3.conditional Commands (Applied ON WebElements)**
-- [IsSelected ,ISVisible, IsEnabled](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ConditionalMethods.java)
+- [1)IsSelected ,2)ISVisible, 3)IsEnabled](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ConditionalMethods.java)
 
 **4.Auto-Waits**
 - [1.Thread.sleep](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Thread_sleep.java)
@@ -25,9 +25,9 @@ selenium basic programs
 - [4.Fluent wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/FluentWaitDemo.java)
  
 **5.Screenshots**
-  - - [ScreenShot capture- Output Type-FILE](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ScreenshotTake.java)
-  - - [ScreenShot capture- Output Type-Base64]
-  - - [ScreenShot capture- Output Type-Array]
+  - [1.ScreenShot capture- Output Type-FILE](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ScreenshotTake.java)
+  - [2.ScreenShot capture- Output Type-Base64]
+  - [3.ScreenShot capture- Output Type-Array]
 
  **6.Drop Down**
  - [1.select Drop down]
