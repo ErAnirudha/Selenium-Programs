@@ -11,12 +11,12 @@ selenium basic programs
 - [get commands methods](https://github.com/ErAnirudha/Selenium-Programs/blob/main/GetMethods.java)
 
 **2.Locators**
-- [Locators (ID,NAME,ClassName,TagName,LinkText,PartialLinkText)](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Locators.java)
-- [css selectors](https://github.com/ErAnirudha/Selenium-Programs/blob/main/CssLocators.java)
-- [XpathLocator](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Xpathlocator.java)
+- [Locators (1) ID,2)NAME,3)ClassName,4)TagName,5)LinkText,6)PartialLinkText)](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Locators.java)
+- [7)css selectors](https://github.com/ErAnirudha/Selenium-Programs/blob/main/CssLocators.java)
+- [8)XpathLocator](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Xpathlocator.java)
     
 **3.conditional Commands (Applied ON WebElements)**
-- [1)IsSelected ,2)ISVisible, 3)IsEnabled](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ConditionalMethods.java)
+- [1) IsSelected ,2) ISVisible, 3) IsEnabled](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ConditionalMethods.java)
 
 **4.Auto-Waits**
 - [1.Thread.sleep](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Thread_sleep.java)
