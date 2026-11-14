@@ -11,28 +11,28 @@ selenium basic programs
 - [get commands methods](https://github.com/ErAnirudha/Selenium-Programs/blob/main/GetMethods.java)
 
 **2.Locators**
-- [Locators (1) ID,2)NAME,3)ClassName,4)TagName,5)LinkText,6)PartialLinkText)](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Locators.java)
-- [7)css selectors](https://github.com/ErAnirudha/Selenium-Programs/blob/main/CssLocators.java)
-- [8)XpathLocator](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Xpathlocator.java)
+- [Locators (1) ID,2) NAME,3) ClassName,4) TagName,5) LinkText,6) PartialLinkText)](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Locators.java)
+- [7) css selectors](https://github.com/ErAnirudha/Selenium-Programs/blob/main/CssLocators.java)
+- [8) XpathLocator](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Xpathlocator.java)
     
 **3.conditional Commands (Applied ON WebElements)**
 - [1) IsSelected ,2) ISVisible, 3) IsEnabled](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ConditionalMethods.java)
 
 **4.Auto-Waits**
-- [1.Thread.sleep](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Thread_sleep.java)
-- [2.implicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ImplicitWait.java)
-- [3.Explicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ExplicitWait.java)
-- [4.Fluent wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/FluentWaitDemo.java)
+- [1).Thread.sleep](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Thread_sleep.java)
+- [2).implicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ImplicitWait.java)
+- [3).Explicit wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ExplicitWait.java)
+- [4).Fluent wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/FluentWaitDemo.java)
  
 **5.Screenshots**
-  - [1.ScreenShot capture- Output Type-FILE](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ScreenshotTake.java)
-  - [2.ScreenShot capture- Output Type-Base64]
-  - [3.ScreenShot capture- Output Type-Array]
+  - [1).ScreenShot capture- Output Type-FILE](https://github.com/ErAnirudha/Selenium-Programs/blob/main/ScreenshotTake.java)
+  - [2).ScreenShot capture- Output Type-Base64]
+  - [3).ScreenShot capture- Output Type-Array]
 
  **6.Drop Down**
- - [1.select Drop down]
- - [2.BootStrap-Drop down]
- - [3.Hidden drop down]
+ - [1).select Drop down]
+ - [2).BootStrap-Drop down]
+ - [3).Hidden drop down]
   
   **1.6 Asserts**
 
