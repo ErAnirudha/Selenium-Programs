@@ -30,7 +30,7 @@ selenium basic programs
   - [3).ScreenShot capture- Output Type-Array]
 
  **6.Drop Down**
- - [1).select Drop down]
+ - [1).select Drop down- a.SelectByVisibleText() b. SelectByIndex  c.SelectByvalue ](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Select_DropDown.java)
  - [2).BootStrap-Drop down]
  - [3).Hidden drop down]
   
