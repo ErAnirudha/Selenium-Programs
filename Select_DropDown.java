@@ -25,8 +25,14 @@ public class Select_DropDown {
 		
 		System.out.println("Total Number of countries present in Dropdown: "+options.size());
 		
-		for(int i=0;i<options.size();i++) {
-		System.out.println(options.get(i).getText());
+//		for(int i=0;i<options.size();i++) {
+//		System.out.println(options.get(i).getText());
+//		}
+		
+		//we can use For-each loop instead Normal for loop
+		
+		for(WebElement op:options) {
+			System.out.println(op.getText());
 		}
 		
 		//select by visible Text-choose Canada
