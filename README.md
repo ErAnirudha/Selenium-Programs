@@ -34,6 +34,8 @@ selenium basic programs
  - [2).BootStrap-Dropdown]
  - [3).Hidden dropdown]
  - [4).Auto suggest dropdown OR Dynamic dropdown ]
+
+ - **7.[Web Tables]**
   
   **1.6 Asserts**
 
@@ -41,7 +43,6 @@ selenium basic programs
 - [Text Box]
 - [Check Box](https://github.com/ErAnirudha/Selenium-Programs/blob/main/CheckBoxesHandle.java)
 - [Radio Button](https://github.com/ErAnirudha/Selenium-Programs/tree/main)
-- [Web Tables]
 - [Buttons]
 - [Links]
 - [Broken Links - Images]
