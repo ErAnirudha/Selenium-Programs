@@ -36,9 +36,9 @@ selenium basic programs
  - [4).Auto suggest dropdown OR Dynamic dropdown ]
 
  **7.[Web Tables]**
- - [1)Static Web Table]
- - [2)Dynamic web Table]
- - [3)Table with pagination]
+ - [1) Static Web Table]
+ - [2) Dynamic web Table]
+ - [3) Table with pagination]
 
  **8.Alerts**
   - [Theory-for 3 Types of Switching Commands](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Switching_Commands.txt)
