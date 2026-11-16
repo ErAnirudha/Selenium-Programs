@@ -36,6 +36,20 @@ selenium basic programs
  - [4).Auto suggest dropdown OR Dynamic dropdown ]
 
  **7.[Web Tables]**
+
+ **8.Alerts**
+  - [Theory-for 3 Types of Switching Commands](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Switching_Commands.txt)
+  - [Handle Alert](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleAlerts.java)
+  - [Alert pop up ](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Alerts.java)
+  - [Handle Alert Using Explicit Wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleAlertUsingExplicitWait.java)
+  - [Authenticated popup / Alert](https://github.com/ErAnirudha/Selenium-Programs/blob/main/AuthenticatedPopup.java)
+    
+**9.Frames**
+  - [Handling Frames /Iframes / Nested Frames](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleFrames.java)
+    
+ **10.Windows**
+  -  [Browser Windows]
+  -  [ Modal Dialogs]
   
   **1.6 Asserts**
 
@@ -54,19 +68,7 @@ selenium basic programs
   - [Login]
   - [Register]
 
-**3.Alerts**
-  - [Theory-for 3 Types of Switching Commands](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Switching_Commands.txt)
-  - [Handle Alert](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleAlerts.java)
-  - [Alert pop up ](https://github.com/ErAnirudha/Selenium-Programs/blob/main/Alerts.java)
-  - [Handle Alert Using Explicit Wait](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleAlertUsingExplicitWait.java)
-  - [Authenticated popup / Alert](https://github.com/ErAnirudha/Selenium-Programs/blob/main/AuthenticatedPopup.java)
-    
-**Frames**
-  - [Handling Frames /Iframes / Nested Frames](https://github.com/ErAnirudha/Selenium-Programs/blob/main/HandleFrames.java)
-    
- **Windows**
-  -  [Browser Windows]
-  -  [ Modal Dialogs]
+
     
  **4.Widgets**
   -  [Accordion]
