@@ -35,7 +35,7 @@ selenium basic programs
  - [3).Hidden dropdown]
  - [4).Auto suggest dropdown OR Dynamic dropdown ]
 
- **7.[Web Tables]**
+ **7.Web Tables**
  - [1) Static Web Table]
  - [2) Dynamic web Table]
  - [3) Table with pagination]
