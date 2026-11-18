@@ -37,6 +37,7 @@ selenium basic programs
 
  **7.Web Tables**
  - [1) Static Web Table](https://github.com/ErAnirudha/Selenium-Programs/blob/main/StaticWebTable.java)
+ - [Assignment Questions]
  - [2) Dynamic web Table]
  - [3) Table with pagination]
 
